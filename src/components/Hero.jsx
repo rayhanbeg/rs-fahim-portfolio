@@ -1,5 +1,5 @@
-import React from 'react'
-import HeroImage from '../assets/hero-image.png'
+
+import HeroImage from '../assets/hero-image.jpg'
 
 const Hero = () => {
   return (
@@ -9,8 +9,8 @@ const Hero = () => {
         transition-transform duration-300 hover:scale-105'/>
         <h1 className='text-4xl font-bold'>
             I'm {" "}
-            <span className='text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>Mohammad Yousof</span>
-            , Full-Stack Developer
+            <span className='text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>RS Fahim</span>
+            , Student
         </h1>
         <p className='mt-4 text-lg text-gray-300'>
             I specialize in building modern and responsive web applications.

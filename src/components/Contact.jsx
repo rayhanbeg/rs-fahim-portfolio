@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import  { useRef, useState } from "react";
 import emailjs from "@emailjs/browser"; // Correct import from @emailjs/browser
 import { FaEnvelope, FaMapMarkedAlt, FaPhone } from "react-icons/fa";
 import { toast } from "react-hot-toast";

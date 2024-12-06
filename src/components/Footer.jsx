@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-8 md:px-16 lg:px-24">
         <div className="flex flex-col md:flex-row md:space-x-12 items-center mb-4">
           <div className="flex-1 mb-4 md:mb-0">
-            <h3 className="text-2xl font-bold mb-2">Your Name</h3>
+            <h3 className="text-2xl font-bold mb-2">Md Fahim</h3>
             <p className="text-gray-400">
               I’m a 12th-grade student currently studying at Alhaz Mockbul Hossain College. This is my personal portfolio.
             </p>
